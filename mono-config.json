@@ -1,0 +1,275 @@
+{
+  "mainAssemblyName": "wasm-sample.dll",
+  "assemblyRootFolder": "managed",
+  "debugLevel": 0,
+  "assets": [
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.AspNetCore.Components.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Data.Sqlite.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.EntityFrameworkCore.Abstractions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.EntityFrameworkCore.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.EntityFrameworkCore.Relational.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.EntityFrameworkCore.Sqlite.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Caching.Abstractions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Caching.Memory.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Configuration.Abstractions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.DependencyInjection.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.DependencyModel.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Logging.Abstractions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Logging.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Options.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Primitives.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.JSInterop.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "netstandard.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "SQLitePCLRaw.batteries_v2.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "SQLitePCLRaw.core.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "SQLitePCLRaw.provider.e_sqlite3.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "SqliteWasmHelper.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Collections.Concurrent.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Collections.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Collections.Immutable.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Collections.NonGeneric.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Collections.Specialized.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.ComponentModel.Annotations.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.ComponentModel.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.ComponentModel.Primitives.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.ComponentModel.TypeConverter.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Data.Common.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Diagnostics.DiagnosticSource.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Diagnostics.TraceSource.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Diagnostics.Tracing.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Drawing.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Drawing.Primitives.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Linq.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Linq.Expressions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Linq.Queryable.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Memory.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Net.Http.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Net.NetworkInformation.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Net.Primitives.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.ObjectModel.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Private.CoreLib.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Private.Uri.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Private.Xml.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Runtime.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Runtime.InteropServices.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Runtime.InteropServices.JavaScript.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Runtime.InteropServices.RuntimeInformation.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Runtime.Numerics.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Runtime.Serialization.Formatters.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Security.Cryptography.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Text.Encodings.Web.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Text.Json.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Text.RegularExpressions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Threading.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Threading.Thread.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Transactions.Local.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "wasm-sample.dll"
+    },
+    {
+      "virtualPath": "runtimeconfig.bin",
+      "behavior": "vfs",
+      "name": "supportFiles/0_runtimeconfig.bin"
+    },
+    {
+      "virtualPath": "/usr/share/zoneinfo/",
+      "behavior": "vfs",
+      "name": "dotnet.timezones.blat"
+    },
+    {
+      "behavior": "dotnetwasm",
+      "name": "dotnet.wasm"
+    }
+  ],
+  "remoteSources": [],
+  "pthreadPoolSize": 0
+}
